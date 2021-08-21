@@ -2,7 +2,7 @@
 #       Information
 # ========================
 
-# problem link : https://www.hackerrank.com/challenges/30-hello-world/problem
+# problem link : https://www.hackerrank.com/challenges/30-conditional-statements/problem
 # Language: Python
 
 # ========================
